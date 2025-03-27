@@ -11,10 +11,8 @@ h1 {
 }
 
  .nota {
-    width: 300px;
+    width: 60px;
     text-align: right;
-    border-radius: 15px;
-    box-shadow: 3px 3px 8px rgba(o, 0, 0, 0,5);
  }
 
  .Flamengo {
