@@ -1,6 +1,8 @@
 
 header {
-    display: flex
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 
 h1 {
