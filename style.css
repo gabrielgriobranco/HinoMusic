@@ -1,20 +1,24 @@
 
-header {
-    height: 7.5rem;
+.header {
+    height: 4.5rem;
+    line-height: 120px;
+    background-color: #573E3E;
+    color: white;
+    font-family: "Jaini";
     font-size: 24px;
     text-align: left;
-    margin: 0;
-    line-height: 120px;
+    margin: 0;  
 
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-}
+  }
+  
+  .header-text {
+    margin: 10px;
+  }
 
-.sideof-header {
- margin: 10px;
-}
 
 .centralizado {
     z-index: 290;
