@@ -13,11 +13,7 @@ header {
     
 }
 
-.esquerda {
-    justify-content: left;
-}
 .lateral-header {
-    justify-content: right;
     position: relative;
   text-align: center;
   color: white;
