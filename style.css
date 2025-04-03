@@ -1,13 +1,8 @@
 
 header {
-<<<<<<< HEAD
-    display: flex
-    
-=======
     display: flex;
     flex-direction: row;
     align-items: center;
->>>>>>> 2e9b3ad9a9b971934dc8ce45515817ada24b1064
 }
 
 h1 {
